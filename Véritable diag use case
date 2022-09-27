@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T10:12:43.354Z" agent="5.0 (Windows)" etag="Zv7znMtjjywz7BG1sqcg" version="20.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-27T18:29:07.361Z" agent="5.0 (Windows)" etag="b3OY6XrzkiUxaRNa5Srt" version="20.3.6" type="github" pages="2">
   <diagram id="aYBbuu6H8aAgZ56KXwGQ" name="Page-1">
     <mxGraphModel dx="1422" dy="1652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Fbyb2uN-MxI-1grlLyZO-2" value="App intervention" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="234" y="-131" width="849" height="1234" as="geometry" />
+          <mxGeometry x="234" y="-128" width="1013" height="1299" as="geometry" />
         </mxCell>
         <mxCell id="Fbyb2uN-MxI-1grlLyZO-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;strokeColor=#457B9D;fontColor=#1D3557;startArrow=none;startFill=0;endArrow=none;endFill=0;fillColor=#A8DADC;" edge="1" parent="1" source="Fbyb2uN-MxI-1grlLyZO-3" target="Fbyb2uN-MxI-1grlLyZO-19">
           <mxGeometry relative="1" as="geometry">
@@ -230,6 +230,15 @@
         </mxCell>
         <mxCell id="Fbyb2uN-MxI-1grlLyZO-55" value="Supprimer un technicien" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="783" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VYAJPpDXq-2ZWMQDypFT-4" value="Synchroniser avec la base de données" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="789" y="196" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VYAJPpDXq-2ZWMQDypFT-5" value="Faire signer la facture" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="786" y="341" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VYAJPpDXq-2ZWMQDypFT-6" value="scannner QR code" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="882" y="81" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
