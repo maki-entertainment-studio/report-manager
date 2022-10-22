@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T14:22:36.949Z" agent="5.0 (Windows)" etag="BahYmO3UVoFg-SJ1gAMV" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-22T14:23:22.856Z" agent="5.0 (Windows)" etag="2EtPRN9LL_jOtzvoP7qR" version="20.5.1" type="github" pages="3">
   <diagram id="aYBbuu6H8aAgZ56KXwGQ" name="Diagramme de cas d&#39;utilisation">
     <mxGraphModel dx="1393" dy="1564" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -643,7 +643,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="OV5u0yKJquNJoYq3xyQW" name="Page-3">
+  <diagram id="OV5u0yKJquNJoYq3xyQW" name="Diagramme de séquence - Scanner QR Code">
     <mxGraphModel dx="1393" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -742,16 +742,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TOBHv_q3aL5-wWHmtTFd-18" value="&lt;span style=&quot;&quot;&gt;Interface Web/Mobile&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="286" y="27" width="100" height="672" as="geometry" />
+          <mxGeometry x="286" y="27" width="100" height="771" as="geometry" />
         </mxCell>
         <mxCell id="TOBHv_q3aL5-wWHmtTFd-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TOBHv_q3aL5-wWHmtTFd-18">
           <mxGeometry x="45" y="60" width="10" height="278" as="geometry" />
         </mxCell>
         <mxCell id="TOBHv_q3aL5-wWHmtTFd-17" value="Technicien" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="52" y="27" width="20" height="642" as="geometry" />
+          <mxGeometry x="52" y="27" width="20" height="756" as="geometry" />
         </mxCell>
         <mxCell id="TOBHv_q3aL5-wWHmtTFd-19" value="Basse de données" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="615" y="27" width="100" height="672" as="geometry" />
+          <mxGeometry x="615" y="27" width="100" height="767" as="geometry" />
         </mxCell>
         <mxCell id="TOBHv_q3aL5-wWHmtTFd-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TOBHv_q3aL5-wWHmtTFd-19">
           <mxGeometry x="45" y="78" width="10" height="222" as="geometry" />
