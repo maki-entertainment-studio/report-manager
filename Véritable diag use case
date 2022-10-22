@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T13:59:29.893Z" agent="5.0 (Windows)" etag="xqEiat1qb5zlgRJ-3nti" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-22T14:07:20.836Z" agent="5.0 (Windows)" etag="udq1sg4MN1buejI30Vls" version="20.5.1" type="github" pages="2">
   <diagram id="aYBbuu6H8aAgZ56KXwGQ" name="Diagramme de cas d&#39;utilisation">
     <mxGraphModel dx="1393" dy="1564" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VYAJPpDXq-2ZWMQDypFT-5" value="Faire signer le document par le client" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
+        <mxCell id="VYAJPpDXq-2ZWMQDypFT-5" value="Téléverser le document signé par le client" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="647" y="955" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VYAJPpDXq-2ZWMQDypFT-8" style="edgeStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FFFFFF;strokeColor=#457B9D;strokeWidth=1;fontColor=#1D3557;startArrow=none;startFill=0;endArrow=none;endFill=0;endSize=6;fillColor=#A8DADC;" parent="1" source="VYAJPpDXq-2ZWMQDypFT-6" target="Fbyb2uN-MxI-1grlLyZO-3" edge="1">
@@ -317,7 +317,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VYAJPpDXq-2ZWMQDypFT-14" value="Faire signer facture" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
+        <mxCell id="VYAJPpDXq-2ZWMQDypFT-14" value="Téléverser facture signée" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="597.75" y="1072" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VYAJPpDXq-2ZWMQDypFT-18" style="edgeStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#457B9D;strokeWidth=1;fontColor=#1D3557;startArrow=none;startFill=0;endArrow=block;endFill=0;endSize=6;fillColor=#A8DADC;" parent="1" source="VYAJPpDXq-2ZWMQDypFT-15" target="VYAJPpDXq-2ZWMQDypFT-5" edge="1">
@@ -327,7 +327,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VYAJPpDXq-2ZWMQDypFT-15" value="Faire signer devis" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
+        <mxCell id="VYAJPpDXq-2ZWMQDypFT-15" value="Téléverser devis signé" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="726" y="1075" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VYAJPpDXq-2ZWMQDypFT-25" style="edgeStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=#FFFFFF;strokeColor=#457B9D;strokeWidth=1;fontColor=#1D3557;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;fillColor=#A8DADC;" parent="1" source="VYAJPpDXq-2ZWMQDypFT-23" target="VYAJPpDXq-2ZWMQDypFT-6" edge="1">
