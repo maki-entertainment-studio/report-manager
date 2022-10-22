@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T14:07:20.836Z" agent="5.0 (Windows)" etag="udq1sg4MN1buejI30Vls" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-22T14:22:36.949Z" agent="5.0 (Windows)" etag="BahYmO3UVoFg-SJ1gAMV" version="20.5.1" type="github" pages="3">
   <diagram id="aYBbuu6H8aAgZ56KXwGQ" name="Diagramme de cas d&#39;utilisation">
     <mxGraphModel dx="1393" dy="1564" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -639,6 +639,125 @@
           <mxGeometry x="-0.0444" y="2" relative="1" as="geometry">
             <mxPoint x="2" y="-25" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OV5u0yKJquNJoYq3xyQW" name="Page-3">
+    <mxGraphModel dx="1393" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16" y="138.5" width="708" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOBHv_q3aL5-wWHmtTFd-17" target="TOBHv_q3aL5-wWHmtTFd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="37.5" y="102" as="sourcePoint" />
+            <mxPoint x="348.5" y="102" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="281" y="109" />
+              <mxPoint x="281" y="109" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-3" value="&lt;div&gt;S&#39;authentifier&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOBHv_q3aL5-wWHmtTFd-2">
+          <mxGeometry x="-0.1257" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOBHv_q3aL5-wWHmtTFd-10" target="TOBHv_q3aL5-wWHmtTFd-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="348.5" y="122" as="sourcePoint" />
+            <mxPoint x="676.5" y="122" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="623" y="125" />
+              <mxPoint x="623" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-5" value="Vérifier identifiant et mot de passe" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOBHv_q3aL5-wWHmtTFd-4">
+          <mxGeometry x="0.1906" y="-1" relative="1" as="geometry">
+            <mxPoint x="-11" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="TOBHv_q3aL5-wWHmtTFd-10" target="TOBHv_q3aL5-wWHmtTFd-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="348.5" y="200" as="sourcePoint" />
+            <mxPoint x="37.5" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="208" />
+              <mxPoint x="140" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-7" value="Affiche page d&#39;acceuil" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOBHv_q3aL5-wWHmtTFd-6">
+          <mxGeometry x="0.1361" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="TOBHv_q3aL5-wWHmtTFd-10" target="TOBHv_q3aL5-wWHmtTFd-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="348.5" y="313" as="sourcePoint" />
+            <mxPoint x="38" y="313" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="138" y="303" />
+              <mxPoint x="138" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-9" value="Afficher message d&#39;erreur" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOBHv_q3aL5-wWHmtTFd-8">
+          <mxGeometry x="-0.09" y="2" relative="1" as="geometry">
+            <mxPoint x="-10" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="TOBHv_q3aL5-wWHmtTFd-15" target="TOBHv_q3aL5-wWHmtTFd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="676.5" y="169" as="sourcePoint" />
+            <mxPoint x="348.5" y="169" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="501" y="181" />
+              <mxPoint x="501" y="181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-12" value="Identifiant et mot de passe OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOBHv_q3aL5-wWHmtTFd-11">
+          <mxGeometry x="0.1558" y="3" relative="1" as="geometry">
+            <mxPoint x="19" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="TOBHv_q3aL5-wWHmtTFd-15" target="TOBHv_q3aL5-wWHmtTFd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="676.5" y="274" as="sourcePoint" />
+            <mxPoint x="348.5" y="274" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="499" y="276" />
+              <mxPoint x="499" y="276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-14" value="&lt;div&gt;Identifiant et mot de passe KO&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOBHv_q3aL5-wWHmtTFd-13">
+          <mxGeometry x="0.1162" relative="1" as="geometry">
+            <mxPoint x="14" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-18" value="&lt;span style=&quot;&quot;&gt;Interface Web/Mobile&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="286" y="27" width="100" height="672" as="geometry" />
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TOBHv_q3aL5-wWHmtTFd-18">
+          <mxGeometry x="45" y="60" width="10" height="278" as="geometry" />
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-17" value="Technicien" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="52" y="27" width="20" height="642" as="geometry" />
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-19" value="Basse de données" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="615" y="27" width="100" height="672" as="geometry" />
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;" vertex="1" parent="TOBHv_q3aL5-wWHmtTFd-19">
+          <mxGeometry x="45" y="78" width="10" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="TOBHv_q3aL5-wWHmtTFd-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="9" y="234" width="719" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
