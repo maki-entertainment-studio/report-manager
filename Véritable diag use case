@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T13:58:22.619Z" agent="5.0 (Windows)" etag="vYKl4ZMcSsmhjI7Pyuzy" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-22T13:59:29.893Z" agent="5.0 (Windows)" etag="xqEiat1qb5zlgRJ-3nti" version="20.5.1" type="github" pages="2">
   <diagram id="aYBbuu6H8aAgZ56KXwGQ" name="Diagramme de cas d&#39;utilisation">
     <mxGraphModel dx="1393" dy="1564" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -618,6 +618,9 @@
         </mxCell>
         <mxCell id="EDZVOhpAgPT54woYPDGc-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;" vertex="1" parent="r6YXQlECJ0QtsmuQidyz-6">
           <mxGeometry x="45" y="372.5" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EDZVOhpAgPT54woYPDGc-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#FFFFFF;" vertex="1" parent="r6YXQlECJ0QtsmuQidyz-6">
+          <mxGeometry x="45" y="777.5" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r6YXQlECJ0QtsmuQidyz-22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
           <mxGeometry x="9" y="234" width="709" height="8" as="geometry" />
