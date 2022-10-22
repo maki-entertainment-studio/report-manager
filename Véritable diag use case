@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T13:34:14.439Z" agent="5.0 (Windows)" etag="61ktdcVYgWWmjQPS8rKc" version="20.5.1" type="github" pages="2">
-  <diagram id="aYBbuu6H8aAgZ56KXwGQ" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-10-22T13:35:10.151Z" agent="5.0 (Windows)" etag="I1fDJUYIezuwgs5Tzl-N" version="20.5.1" type="github" pages="2">
+  <diagram id="aYBbuu6H8aAgZ56KXwGQ" name="Diagramme de cas d&#39;utilisation">
     <mxGraphModel dx="1393" dy="1564" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -355,7 +355,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="P5PpAMUdAnTND8NWpAst" name="Page-2">
+  <diagram id="P5PpAMUdAnTND8NWpAst" name="Diagramme de séquence - créer une intervention">
     <mxGraphModel dx="1393" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
