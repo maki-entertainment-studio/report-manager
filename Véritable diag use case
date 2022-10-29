@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T10:13:39.560Z" agent="5.0 (Windows)" etag="1Dcqk4kkalOs7CsRC3dA" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-29T10:14:01.371Z" agent="5.0 (Windows)" etag="Y0OOjC3GvJwrukN9cW6D" version="20.5.1" type="github" pages="4">
   <diagram id="aYBbuu6H8aAgZ56KXwGQ" name="Diagramme de cas d&#39;utilisation">
     <mxGraphModel dx="2062" dy="1978" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -1545,7 +1545,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XZxv71dBI9-ZUWW1Ka0U-3" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="21" y="183.5" width="1275" height="180" as="geometry" />
+          <mxGeometry x="33" y="183.5" width="1263" height="180" as="geometry" />
         </mxCell>
         <mxCell id="XZxv71dBI9-ZUWW1Ka0U-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XZxv71dBI9-ZUWW1Ka0U-1" source="XZxv71dBI9-ZUWW1Ka0U-24">
           <mxGeometry relative="1" as="geometry">
