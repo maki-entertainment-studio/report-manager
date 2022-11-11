@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T10:22:05.905Z" agent="5.0 (Windows)" etag="onAuF1gFE69neIoqFbZc" version="20.5.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-11T11:39:36.640Z" agent="5.0 (Windows)" etag="6zoSbmPk0ydyX01ATqRc" version="20.5.3" type="github" pages="5">
   <diagram id="aYBbuu6H8aAgZ56KXwGQ" name="Diagramme de cas d&#39;utilisation">
-    <mxGraphModel dx="3749" dy="2920" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1978" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1888,6 +1888,73 @@
           <mxGeometry x="-0.0526" y="2" relative="1" as="geometry">
             <mxPoint x="-19" y="-19" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7KtRnFFrrfgNcRUj2pHD" name="Page-5">
+    <mxGraphModel dx="2062" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;startArrow=classic;startFill=1;" edge="1" parent="1" source="N9cbxtuuTBDpDVer6ppy-1" target="fGgfp_WNzDemNpoeAwYL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;startArrow=classic;startFill=1;fillColor=#BC6C25;" edge="1" parent="1" source="N9cbxtuuTBDpDVer6ppy-1" target="N9cbxtuuTBDpDVer6ppy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N9cbxtuuTBDpDVer6ppy-1" value="&lt;b&gt;Page de connexion&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="320" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;startArrow=classic;startFill=1;fillColor=#BC6C25;" edge="1" parent="1" source="N9cbxtuuTBDpDVer6ppy-2" target="NoNhYn0vo7wQkIwrlgwm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;startArrow=classic;startFill=1;fillColor=#BC6C25;" edge="1" parent="1" source="N9cbxtuuTBDpDVer6ppy-2" target="NoNhYn0vo7wQkIwrlgwm-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N9cbxtuuTBDpDVer6ppy-2" value="&lt;div&gt;&lt;b&gt;Accueil&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Synchroniser la base de données&lt;/div&gt;&lt;div&gt;Créer une intervention&lt;/div&gt;&lt;div&gt;Liste des interventions&lt;/div&gt;&lt;div&gt;Rechercher une intervention&lt;/div&gt;&lt;div&gt;Scanner QrCode&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gestion (Client, Matériel, Utilisateur)&lt;/div&gt;&lt;div&gt;Se déconnecter&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="280" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="fGgfp_WNzDemNpoeAwYL-1" value="&lt;b&gt;Page de réinitialisation de mot de passe&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="280" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;startArrow=classic;startFill=1;fillColor=#BC6C25;" edge="1" parent="1" source="NoNhYn0vo7wQkIwrlgwm-1" target="NoNhYn0vo7wQkIwrlgwm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;startArrow=classic;startFill=1;fillColor=#BC6C25;" edge="1" parent="1" source="NoNhYn0vo7wQkIwrlgwm-1" target="NoNhYn0vo7wQkIwrlgwm-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="1740" />
+              <mxPoint x="200" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;startArrow=classic;startFill=1;fillColor=#BC6C25;" edge="1" parent="1" source="NoNhYn0vo7wQkIwrlgwm-1" target="NoNhYn0vo7wQkIwrlgwm-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="1750" />
+              <mxPoint x="1000" y="1750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-1" value="Gestion" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1200" width="320" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-2" value="Matériel" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1790" width="320" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-3" value="&lt;b&gt;Créer / Consulter / modifier une intervention&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1200" width="320" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-9" value="Client" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1790" width="320" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="NoNhYn0vo7wQkIwrlgwm-10" value="Utilisateur" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1790" width="320" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
